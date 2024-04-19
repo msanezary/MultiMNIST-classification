@@ -25,7 +25,6 @@ MultiMNIST/
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Overview and instructions
 └── .gitignore                # Specifies untracked files to ignore
-```
 
 ## Setup
 
@@ -69,4 +68,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 ## Contact
 
 For questions or support, please contact [msanezary@gmail.com](mailto:msanezary@gmail.com) [boutzil.50@gmail.com](mailto:boutzil.50@gmail.com).
-```
