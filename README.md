@@ -2,30 +2,6 @@
 
 This project implements a multi-task learning model for the MultiMNIST dataset. It uses a shared CNN base to predict two digits simultaneously from overlaid MNIST images.
 
-## Project Structure
-
-MultiMNIST/
-│
-├── src/                      # Source files
-│   ├── main.py               # Entry point for training and evaluation
-│   ├── models.py             # Model definitions
-│   ├── dataset.py            # Dataset handling
-│   ├── train.py              # Training routines
-│   ├── evaluate.py           # Evaluation routines
-│   └── utils.py              # Utility functions
-│
-├── data/                     # Dataset directory
-│   └── multi_mnist.pickle    # Serialized dataset file
-│
-├── notebooks/                # Jupyter notebooks for exploration
-│   └── exploration.ipynb
-│
-├── outputs/                  # Outputs including logs and saved models
-│
-├── requirements.txt          # Python dependencies
-├── README.md                 # Overview and instructions
-└── .gitignore                # Specifies untracked files to ignore
-
 ## Setup
 
 To run this project, follow these steps:
