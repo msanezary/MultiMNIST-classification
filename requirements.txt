@@ -1,0 +1,6 @@
+numpy
+torch>=1.8
+torchvision>=0.9.0
+matplotlib  
+pickle-mixin  # If needed for compatibility in Python 3
+pytest  # For more advanced testing capabilities
